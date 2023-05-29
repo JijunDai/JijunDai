@@ -8,7 +8,7 @@ I'm Jijun Dai. I work as a SRE engineer during the day. At night, I switch into 
 
 ### ⚡️ A quick introduction
 
-- 🔭 I’m currently working with at [AAA](https://www.AAA.com) with their SRE team.
+- 🔭 I’m currently working with at [MG](https://www.AAA.com) with their SRE team.
 - 🌱 I’m currently learning K8s and Go programming.
 - 👀 I’m interested in ...
 
